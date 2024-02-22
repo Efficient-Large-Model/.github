@@ -1,10 +1,10 @@
 ## Welcome to Efficient Large Model Team! 👋
 
-We are researchers from NVIDIA and MIT working on GPU accelerated efficient large models.
+We are researchers from NVIDIA and MIT working on GPU accelerated large models for generative AI.
 
 🚀 Introduction
 
-Efficient Large Model Team is a collaboration between researchers from NVIDIA and MIT dedicated to the development and optimization of GPU-accelerated efficient large models. We focuses on pushing the boundaries of machine learning by designing models that are not only powerful but also efficient in terms of computational resources. We are committed to advancing the field of AI by making state-of-the-art models deployable, scalable and accessible.
+Efficient Large Model Team is a collaboration between researchers from NVIDIA and MIT dedicated to the development and optimization of GPU-accelerated efficient large models. We focuses on pushing the boundaries of generative AI by designing models that are not only powerful but also efficient in terms of computational resources. We are committed to advancing the field of AI by making state-of-the-art models deployable, scalable and accessible.
 
 🌈 Contribution Guidelines
 
@@ -26,7 +26,6 @@ Join us on this exciting journey of building the next generation of efficient la
 👩‍💻 Useful Resources
 
 MIT HAN Lab: https://hanlab.mit.edu
-
 NVIDIA TensorRT-LLM: https://github.com/NVIDIA/TensorRT-LLM
 
 
