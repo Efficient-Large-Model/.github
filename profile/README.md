@@ -26,6 +26,7 @@ Join us on this exciting journey of building the next generation of efficient la
 👩‍💻 Useful Resources
 
 MIT HAN Lab: https://hanlab.mit.edu
+
 NVIDIA TensorRT-LLM: https://github.com/NVIDIA/TensorRT-LLM
 
 
