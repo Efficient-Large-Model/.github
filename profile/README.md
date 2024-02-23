@@ -10,11 +10,11 @@ Efficient Large Model Team is a collaboration between researchers from NVIDIA an
 
 We welcome contributions from the community to help us further improve and expand our research efforts. Whether you're an experienced researcher, a student eager to learn, or a developer passionate about efficiency in AI, there are several ways to get involved:
 
-Contribute Code: Help us develop and optimize efficient large models by contributing code to our GitHub repositories.
-Report Issues: If you encounter any bugs or have suggestions for improvement, please open an issue on the respective repository.
-Provide Feedback: Share your insights and ideas through discussions on our GitHub repositories or join our community forums.
-Spread the Word: Let others know about our work and encourage them to join our community.
-Internship: We have openings at both MIT and NVIDIA for excellent contributors with proven track record.
+* Contribute Code: Help us develop and optimize efficient large models by contributing code to our GitHub repositories.
+* Report Issues: If you encounter any bugs or have suggestions for improvement, please open an issue on the respective repository.
+* Provide Feedback: Share your insights and ideas through discussions on our GitHub repositories or join our community forums.
+* Spread the Word: Let others know about our work and encourage them to join our community.
+* Internship: We have openings at both MIT and NVIDIA for excellent contributors with proven track record.
 
 🍿 Fun Facts
 
