@@ -1,10 +1,10 @@
 ## Welcome to Efficient Large Model Team! 👋
 
-We are researchers from NVIDIA and MIT working on GPU accelerated large models for generative AI.
+We are researchers from NVIDIA and MIT working on GPU accelerated generative AI.
 
 🚀 Introduction
 
-Efficient Large Model Team is a collaboration between researchers from NVIDIA and MIT dedicated to the development and optimization of GPU-accelerated efficient large models. We focuses on pushing the boundaries of generative AI by designing models that are not only powerful but also efficient in terms of computational resources. We are committed to advancing the field of AI by making state-of-the-art models deployable, scalable and accessible.
+Efficient Large Model Team is a collaboration between researchers from NVIDIA and MIT dedicated to the development and optimization of GPU-accelerated efficient AI computing. We focuses on pushing the boundaries of generative AI by designing models that are not only powerful but also efficient in terms of computational resources. We are committed to advancing the field of AI by making state-of-the-art models deployable, scalable and accessible.
 
 🌈 Contribution Guidelines
 
@@ -19,13 +19,16 @@ We welcome contributions from the community to help us further improve and expan
 🍿 Fun Facts
 
 Our team comprises researchers from diverse backgrounds, bringing together expertise from both industry and academia.
-We're passionate about optimizing AI models not just for performance but also for sustainability and accessibility.
+We're passionate about optimizing AI models not just for performance but also for efficiency and sustainability.
 In our spare time, we love experimenting with new algorithms and techniques to enhance the efficiency of our models, and skiing at the speed of GPU.
 Join us on this exciting journey of building the next generation of efficient large models! 🌟
 
 👩‍💻 Useful Resources
 
 MIT HAN Lab: https://hanlab.mit.edu
+
+NVIDIA Research: https://www.nvidia.com/en-us/research
+
 NVIDIA TensorRT-LLM: https://github.com/NVIDIA/TensorRT-LLM
 
 
